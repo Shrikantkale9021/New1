@@ -12,9 +12,7 @@ b) with thread.sleep ------->
 		actualtitle=   actiTIME - Enter Time-Track  [HOMEPAGE]
 		True: Title is matching
 
-C)With using explict wait ------>
-		a)org.openqa.selenium.TimeoutException: till 100 seconds
-		b)
+
 
 d) with explite wait & with thread.sleep
 		a)thread.sleep for 2000 and explicit till 50
